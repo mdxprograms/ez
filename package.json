@@ -1,7 +1,10 @@
 {
   "name": "ez",
+  "bin": {
+    "ez": "ez.js"
+  },
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "ez.js",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.15.1",
@@ -12,6 +15,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "description": ""
+  "author": "Josh Waller <mdx.programs@gmail.com>",
+  "description":
+    "ez helps get your project started with correct dependencies and bare essentials needed.",
+  "repository": "git@github.com:mdxprograms/ez.git"
 }
