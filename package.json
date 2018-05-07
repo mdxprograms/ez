@@ -1,9 +1,9 @@
 {
-  "name": "ez",
+  "name": "@mdxprograms/ez",
   "bin": {
     "ez": "ez.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.4",
   "main": "ez.js",
   "license": "MIT",
   "dependencies": {
@@ -16,6 +16,7 @@
   },
   "keywords": [],
   "author": "Josh Waller <mdx.programs@gmail.com>",
-  "description": "ez helps get your project started with correct dependencies and bare essentials needed.",
+  "description":
+    "ez helps get your project started with correct dependencies and bare essentials needed.",
   "repository": "git@github.com:mdxprograms/ez.git"
 }
